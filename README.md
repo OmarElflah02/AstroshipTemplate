@@ -9,6 +9,8 @@ A **starter template** for marketing websites & landing pages, built with **Astr
 - Services section with feature icons  
 - Easy to customize and extend  
 
+⚡ Next Up: I’ll be upgrading this template with JavaScript & React soon for interactive components and enhanced customization!
+
 ## Live Demo 🌐
 https://omarelflah02.github.io/AstroshipTemplate/
 
