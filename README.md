@@ -1,6 +1,6 @@
 # Astroship Tailwind Template 🚀
 
-A **starter template** for marketing websites & landing pages, built with **Astro + TailwindCSS + DaisyUI**. Fully responsive, easy to customize
+A **starter template** for marketing websites & landing pages, built with **TailwindCSS + DaisyUI**.Fully responsive, easy to customize
 
 ## Features ✨
 - Responsive design for all devices  
